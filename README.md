@@ -1,4 +1,4 @@
-# gulp.js-4-sample
+# gulp.js-4-starter
 
 https://nodejs.org/en/download/
 
